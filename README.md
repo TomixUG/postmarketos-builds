@@ -1,5 +1,6 @@
 # postmarketOS for xiaomi-pipa
 
+haha
 This repository provides CI for building postmarketOS images for the xiaomi-pipa (Xiaomi Pad 6) device with two desktop environments (Plasma Desktop and GNOME). Images are built weekly, every Friday at midnight UTC.
 
 Login Credentials (if required):
